@@ -4,6 +4,7 @@ matrix multiplication
 Test results:
 
 > ruby matrix_mult.rb 
+
 razmer 1 matrici:
 kolichestvo strok: 3
 kolichestvo stolbcov: 4
